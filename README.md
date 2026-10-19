@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Sunil Junjannavar 👋
 
-<!--
-**sunil-junjannavar/sunil-junjannavar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aerospace Engineer | Flight Dynamics & Control Systems
 
-Here are some ideas to get you started:
+I'm an Aerospace Engineer with professional experience in flight dynamics,
+flight-control systems, and aircraft simulation. I'm currently pursuing
+an M.Sc. in Aerospace Engineering at TU Darmstadt, Germany.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+- **Control & Simulation:** Flight Dynamics, 6-DOF Simulation,
+  State-Space Modeling, Stability Analysis
+- **Programming:** MATLAB, Simulink, Python, C/C++, FORTRAN
+- **Engineering:** Model-Based Design, Verification & Validation
+- **Tools:** Git, GitHub, Stateflow
+
+### Featured Projects
+- 🚀 Flight Dynamics & 6-DOF Simulation — Coming soon
+- 🎛️ Control Systems & PID Design — Coming soon
+- 📊 Flight Data Analysis with Python — Coming soon
+
+### Connect
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/sunil-junjannavar/)
